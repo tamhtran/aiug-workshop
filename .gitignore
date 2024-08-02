@@ -5,3 +5,5 @@ student_version/
 venv/
 venv_new/
 sessions/session_4/notebooks/model_directory/
+sessions/session_4/app/.streamlit/secrets.toml
+sessions/session_3/app/.streamlit/secrets.toml
